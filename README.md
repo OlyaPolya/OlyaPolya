@@ -13,6 +13,7 @@ Since 2023, I have been supporting, improvement, and developing new functionalit
 - TS
 
 📫 How to reach me: 
+  - <a href="https://polyanskaya.netlify.app" target="_blank">polyanskaya.netlify.app</a>
   - <a href="mailto:polyanskaya3000@gmail.com" target="_blank">polyanskaya3000@gmail.com</a>
   - <a href="https://t.me/o_polyanskaya" target="_blank">Telegram</a>
   - <a href="https://discordapp.com/users/919941750548738059/" target="_blank">Discord</a>
